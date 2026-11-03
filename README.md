@@ -24,4 +24,3 @@ npm run build      # verify the production build
 ## Notes
 - Jikan allows about 3 requests/second; rapid page jumps may show a retry prompt.
 - If a cover image is missing or fails, the card falls back to a random image from waifu.pics.
-# anime-gallery
